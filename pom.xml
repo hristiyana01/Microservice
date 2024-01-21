@@ -15,9 +15,6 @@
 
   <name>my-first-microservice</name>
   <url>https://www.example.com</url>
-  <modules>
-    <module>customer/customer</module>
-  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
